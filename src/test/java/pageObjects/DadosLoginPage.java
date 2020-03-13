@@ -6,6 +6,6 @@ public class DadosLoginPage {
     private WebDriver navegador;
 
     public DadosLoginPage(WebDriver navegador) {
-        this.navegador = navegador;
+        //this.navegador = navegador;
     }
 }
