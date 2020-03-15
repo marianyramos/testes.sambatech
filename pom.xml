@@ -29,6 +29,15 @@
             <scope>test</scope>
         </dependency>
 
+        <!-- https://mvnrepository.com/artifact/org.easetech/easytest-core
+        // Biblioteca externa par uso estratégia de teste Data Driven testing -->
+
+        <dependency>
+            <groupId>org.easetech</groupId>
+            <artifactId>easytest-core</artifactId>
+            <version>1.4.0</version>
+        </dependency>
+
 
     </dependencies>
 
